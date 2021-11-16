@@ -34,7 +34,7 @@
       #t_2_1.h2 2.1  Administrar dinero y documentos
     .row.mt-5
       .col-12.col-lg-7.align-self-center
-        p Al preparar la jornada laboral, de acuerdo con las instrucciones del Retail y su política de apertura de caja, debemos de cumplir con el siguiente procedimiento:
+        p Al preparar la jornada laboral, de acuerdo con las instrucciones del <em>Retail</em> y su política de apertura de caja, debemos de cumplir con el siguiente procedimiento:
         ul.lista-ul.mt-3
           li 
             i.fas.fa-angle-right
@@ -60,12 +60,12 @@
       #t_2_2.h2 2.2  Equipos tecnológicos
     p.mt-4 La tecnología va de la mano del cajero, por lo cual conozcamos algunos de los equipos que están a disposición para ejecución de su rol:
     TabsB.color-acento-contenido.mt-5(data-aos="zoom-in")
-      .py-4.py-md-5(titulo="El Scanner balanza" :icono="require('@/assets/template/tema-2-3.svg')")
+      .py-4.py-md-5(titulo="El <em>Scanner</em> balanza" :icono="require('@/assets/template/tema-2-3.svg')")
         .row
           .col-12.col-lg-7
-            .h4 El Scanner balanza      
+            .h4 El <em>Scanner</em> balanza      
             p.mt-3 Es el equipo conformado por el lector de códigos de barras y la balanza para pesar las frutas y verduras, conectado a la terminal Pos tiene como función brindar la información de ventas con agilidad y exactitud.
-            .h4.mt-3 El uso del Scanner balanza te permite:
+            .h4.mt-3 El uso del <em>Scanner</em> balanza te permite:
             ul.lista-ul.mt-3
               li 
                 i.fas.fa-angle-right
@@ -97,11 +97,11 @@
           .col-6.col-lg-5.offset-3.offset-lg-0.mt-3.mt-lg-0.align-self-center
             figure
               img(src="@/assets/template/tema-2-9.png", alt="Texto que describa la imagen")
-      .py-4.py-md-5(titulo="El sistema neumático (Shut)" :icono="require('@/assets/template/tema-2-6.svg')").red
+      .py-4.py-md-5(titulo="El sistema neumático (<em>Shut</em>)" :icono="require('@/assets/template/tema-2-6.svg')").red
         .row
           .col-12.col-lg-7
-            .h4   El sistema neumático (Shut)    
-            p.mt-3 Es el sistema de conductos que va desde el puesto de pago hasta la caja general o tesorería, su función es transportar una cápsula donde envías el dinero de las ventas que has realizado. En los Retail que no poseen el Shut el dinero lo envías con el directivo que realiza la recogida.
+            .h4   El sistema neumático (<em>Shut</em>)    
+            p.mt-3 Es el sistema de conductos que va desde el puesto de pago hasta la caja general o tesorería, su función es transportar una cápsula donde envías el dinero de las ventas que has realizado. En los <em>Retail</em> que no poseen el <em>Shut</em> el dinero lo envías con el directivo que realiza la recogida.
           .col-6.col-lg-5.offset-3.offset-lg-0.mt-3.mt-lg-0.align-self-center
             figure
               img(src="@/assets/template/tema-2-10.png", alt="Texto que describa la imagen")
@@ -112,7 +112,7 @@
             .h4 Teclados
             p.mt-4 La distribución del teclado y su correcto uso te permite operar fácilmente la terminal, brindar un mejor servicio a los clientes compradores con las teclas especiales y diferenciar los medios de pago para cumplir con lo establecido por la Dirección Nacional de Impuestos DIAN.
             .cajon.color-primario.p-4.mt-4.bg-azul-claro
-              p En los siguientes videos, vamos a observar el proceso de registro, cobro y otros servicios ofrecidos, independiente de los teclados, utilizados según cada Retail:
+              p En los siguientes videos, vamos a observar el proceso de registro, cobro y otros servicios ofrecidos, independiente de los teclados, utilizados según cada <em>Retail</em>:
               P.mt-3 #[strong Nota:] ten en cuenta que no hay un estándar único, para este tipo de operaciones
             .row(data-aos="slide-up")
               .col-12
@@ -126,7 +126,7 @@
                           h3.mb-1 Registro de productos
                           p.text-small.text-amarillo Registro y escaneo de productos para el cálculo del total de la compra y continuar con el proceso de venta. #[strong.text-amarillo ¡Ingresa!] 
                         .col-sm-auto
-                          a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                          a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=S_Xw7r2fx98" target="_blank")
                             span Enlace
                             i.fas.fa-link
                       .row.justify-content-between.align-items-center.mt-3
@@ -134,7 +134,7 @@
                           h3.mb-1 Cobro
                           p.text-small.text-amarillo Procedimiento para el cobro de los productos a adquirir por el cliente #[strong.text-amarillo ¡Ingresa!]  
                         .col-sm-auto
-                          a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                          a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=AfNyARMdc5A" target="_blank")
                             span Enlace
                             i.fas.fa-link
                       .row.justify-content-between.align-items-center.mt-3
@@ -142,7 +142,7 @@
                           h3.mb-1 Servicios adicionales
                           p.text-small.text-amarillo Servicios adicionales disponibles para el cliente y a realizar en caja. #[strong.text-amarillo ¡Ingresa!]  
                         .col-sm-auto
-                          a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                          a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=d2TtHR4p1K0" target="_blank")
                             span Enlace
                             i.fas.fa-link
                       
@@ -154,9 +154,9 @@
     .row.mt-5
       .col-12.col-lg-9
         p Según Angulo & Maldonado (2016): “Se entiende por sistema de información transaccional aquel diseñado para recolectar, modificar, almacenar y recuperar información generada por las transacciones en una organización”
-        p.mt-3 En el Retail se puede señalar como sistema transaccional al conjunto organizado de personas, procedimientos, software, base de datos y dispositivos para registrar transacciones comerciales consumadas.
+        p.mt-3 En el <em>Retail</em> se puede señalar como sistema transaccional al conjunto organizado de personas, procedimientos, <em>software</em>, base de datos y dispositivos para registrar transacciones comerciales consumadas.
         .cajon.color-primario.p-4.mt-3.bg-azul-claro
-          p No se trata de solo comprar y vender, ya que el secreto en el negocio radica en dejar clientes satisfechos y para lograrlo necesitas aprender cómo brindar la mejor experiencia, es decir en el momento actual la relación entre las tiendas físicas de Retail y sus clientes son básicamente transaccional, lugares para satisfacer la oferta, la demanda, nuevos canales, segmentaciones a la medida e integración de procesos tecnológicos.
+          p No se trata de solo comprar y vender, ya que el secreto en el negocio radica en dejar clientes satisfechos y para lograrlo necesitas aprender cómo brindar la mejor experiencia, es decir en el momento actual la relación entre las tiendas físicas de <em>Retail</em> y sus clientes son básicamente transaccional, lugares para satisfacer la oferta, la demanda, nuevos canales, segmentaciones a la medida e integración de procesos tecnológicos.
       .col-3.d-none.d-lg-flex.px-0.align-self-center
         figure
           img(src="@/assets/template/tema-2-13.svg", alt="Texto que describa la imagen").floating
@@ -218,8 +218,8 @@
               figure
                 img(src="@/assets/template/tema-2-18.svg", alt="Texto que describa la imagen")
           .col-12.col-lg-8.px-4.bg-blanco.py-3.rounded-15
-            .h4 Stock
-            p.mt-3 Stock apropiado (el cual debe ser manejado por propio el cajero) de todos los útiles y provisiones que se requieran para el desempeño de la tarea: plumas, grapas, engrapadora, clips, facturas, notas de venta, bolsas de diferentes tamaños para envolver los productos, toallas o trapos para limpiar, cuando se vendan comestibles, separadores de papeles, publicidad en caso de recibir orden para repartirla.
+            .h4 <em>Stock</em>
+            p.mt-3 <em>Stock</em> apropiado (el cual debe ser manejado por propio el cajero) de todos los útiles y provisiones que se requieran para el desempeño de la tarea: plumas, grapas, engrapadora, clips, facturas, notas de venta, bolsas de diferentes tamaños para envolver los productos, toallas o trapos para limpiar, cuando se vendan comestibles, separadores de papeles, publicidad en caso de recibir orden para repartirla.
       
       .col-11.col-md-5.rounded-15.border-azul.ml-5.mt-3(data-aos="flip-left")
         .row.h-100
@@ -301,8 +301,8 @@
       #t_2_4.h2  2.4  Manejo de valores
     .row.mt-5
       .col-12.col-lg-7.align-self-center
-        p La pandemia del año 2020 ha acelerado el movimiento hacia una economía más online y los retailer necesitan adaptarse para poder avanzar en un momento de profundos cambios. La primera tendencia que prevemos en el mundo post pandémico es la consolidación de los procesos de pago online y offline. Durante la pandemia, muchos Retail pusieron más énfasis en los canales online.
-        p.mt-3 La aparición de una experiencia de compra offline más “conectada” implica la necesidad de conciliar las soluciones de pago para mejorar la experiencia del cliente comprador, no obstante, entendemos por manejo de valores en el Retail, al conjunto de operaciones y registros en el punto de pago, en igual forma la administración de efectivo y en otros medios de pago en manos de personas que tengan buenas relaciones éticas y profesionales con los clientes compradores.
+        p La pandemia del año 2020 ha acelerado el movimiento hacia una economía más <em>online</em> y los retailer necesitan adaptarse para poder avanzar en un momento de profundos cambios. La primera tendencia que prevemos en el mundo post pandémico es la consolidación de los procesos de pago <em>online</em> y <em>offline</em>. Durante la pandemia, muchos <em>Retail</em> pusieron más énfasis en los canales <em>online</em>.
+        p.mt-3 La aparición de una experiencia de compra <em>offline</em> más “conectada” implica la necesidad de conciliar las soluciones de pago para mejorar la experiencia del cliente comprador, no obstante, entendemos por manejo de valores en el <em>Retail</em>, al conjunto de operaciones y registros en el punto de pago, en igual forma la administración de efectivo y en otros medios de pago en manos de personas que tengan buenas relaciones éticas y profesionales con los clientes compradores.
       .col-6.col-lg-5.offset-3.offset-lg-0.mt-3.mt-lg-0.align-self-center
         figure
           img(src="@/assets/template/tema-2-25.png", alt="Texto que describa la imagen")
@@ -341,7 +341,8 @@ export default {
 .tabs-b .tabs-b__header .tabs-b__tab:nth-child(1) .tabs-b__tab__icon
   width: 60px
 .tabs-b .tabs-b__header .tabs-b__tab:nth-child(4) img
-  width: 60%
+    width: 50px;
+    height: 70px;
 .rounded-15-izq
   border: 3px solid #64B5F6
 

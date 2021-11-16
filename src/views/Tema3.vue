@@ -111,14 +111,14 @@
           img(src="@/assets/template/tema-3-10.png", alt="Texto que describa la imagen")
       .col-12.col-lg-9.px-5.align-self-center
         .h4.pt-4 Códigos de pago
-        p.mt-4 Es un número de varios dígitos que te aprueba abonar a facturas a través de un medio de pago electrónico como puede ser gana, baloto, su chance y los mismos Retail o un cajero automático. Por lo general el código de pago electrónico se encuentra en el extremo superior derecho de la primera hoja de tu factura.
+        p.mt-4 Es un número de varios dígitos que te aprueba abonar a facturas a través de un medio de pago electrónico como puede ser gana, baloto, su chance y los mismos <em>Retail</em> o un cajero automático. Por lo general el código de pago electrónico se encuentra en el extremo superior derecho de la primera hoja de tu factura.
     .h4.mt-5 Otros medios de pago
     .row.mt-5
       .col-sm-3.col-lg-2.px-4.align-self-center.d-none.d-sm-flex
         figure
           img(src="@/assets/template/tema-3-11.svg", alt="Texto que describa la imagen").floating.px-4
       .col-12.col-sm-9.col-lg-10.px-4.px-sm-0.align-self-center
-        p Se entiende por medio de pago al instrumento o bien que accede comprar un producto, contratar servicios o cancelar todo tipo de deudas, hay muchos que son alternativos a los tradicionales. Los conocidos en el Retail son: 
+        p Se entiende por medio de pago al instrumento o bien que accede comprar un producto, contratar servicios o cancelar todo tipo de deudas, hay muchos que son alternativos a los tradicionales. Los conocidos en el <em>Retail</em> son: 
     .row.justify-content-center(data-aos="fade-down").mt-5.text-white
       .col-10.col-lg-4
         .row.px-2.pt-2.h-100
@@ -127,8 +127,8 @@
               img(src="@/assets/template/tema-3-12.png", alt="Texto que describa la imagen")
             .text.p-lg-3.p-4
               .row.text-center.px-1.pt-1.mt-md-4.pt-md-0.mt-lg-3.mt-xl-4
-                .h4.small-text.mt-sm-3.mt-md-0 Portafolios físicos
-                p.mt-3.small-text Es un título que constituye el derecho a pagos periódicos a cambio de entregar, en el momento de su interés, una cantidad de dinero. Dicho título puede ser emitido por el Estado o una empresa, con la finalidad de endeudarse.
+                .h4.small-text.mt-sm-3.mt-md-0 Bonos
+                p.mt-3.small-text Es un título que constituye el derecho a pagos periódicos a cambio de entregar, en el momento de su interés, una cantidad de dinero. Dicho título puede ser emitido por un Estado, un gobierno local, un municipio o una empresa, con la finalidad de endeudarse.
 
       .col-10.col-lg-4
         .row.px-2.pt-2.h-100
@@ -137,8 +137,8 @@
               img(src="@/assets/template/tema-3-13.png", alt="Texto que describa la imagen")
             .text.p-lg-3.p-4
               .row.text-center.px-1.pt-1.mt-1.mt-md-4.mt-lg-3.mt-xl-4.pt-md-0
-                .h4.small-text.mt-1.mt-md-0 Portafolios digitales 
-                p.mt-3.small-text Son una forma de recolectar al comprar en una red determinada. Con los mismos se puede adquirir productos como alimentos, viajes, recreación, ropa, calzado, accesorios, entre otros en los Retail aliados o en las tiendas online.
+                .h4.small-text.mt-1.mt-md-0 Puntos 
+                p.mt-3.small-text Son una forma de recolectar al comprar en una red determinada. Con los mismos se puede adquirir productos como alimentos, viajes, recreación, ropa, calzado, accesorios, entre otros en los <em>Retail</em> aliados o en las tiendas <em>online</em>.
       .col-10.col-lg-4
         .row.px-2.pt-2.h-100
           .col-12.m-0.nav-holder2.align-items-center.rounded-15.box-shadow.px-0
@@ -146,12 +146,12 @@
               img(src="@/assets/template/tema-3-14.png", alt="Texto que describa la imagen")
             .text.p-lg-3.p-4
               .row.text-center.px-1.pt-1.mt-1.mt-md-4.mt-lg-3.mt-xl-4.pt-md-0
-                .h4.small-text.mt-1.mt-md-0 Portafolios digitales 
-                p.mt-3.small-text Moneda virtual, contra reembolso, en línea sin necesidad directa de tarjeta, a través de dispositivos móviles (eWallet y contactless)
+                .h4.small-text.mt-1.mt-md-0 Medios adicionales
+                p.mt-3.small-text Moneda virtual, contra reembolso, en línea sin necesidad directa de tarjeta, a través de dispositivos móviles (<em>eWallet</em> y <em>contactless</em>)
     p.mt-5 Le invitamos a ver el siguiente contenido que muestra ventajas en el uso de pagos en línea:
     figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Vmg0zJX69Qc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
 
 

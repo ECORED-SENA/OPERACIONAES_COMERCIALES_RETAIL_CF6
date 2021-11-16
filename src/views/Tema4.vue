@@ -9,14 +9,14 @@
       h1 Normativa del recaudo de caja
     .row.mt-5
       .col-12.col-lg-9
-        p La necesidad de control, en los aspectos de recepción, custodia y despacho de bienes financieros en el Retail, han hecho sentir la necesidad de transformar procedimientos destinados a facilitar el cumplimiento con las normas de recaudo en la caja, así como la existencia de recursos físicos, materiales y humanos.
+        p La necesidad de control, en los aspectos de recepción, custodia y despacho de bienes financieros en el <em>Retail</em>, han hecho sentir la necesidad de transformar procedimientos destinados a facilitar el cumplimiento con las normas de recaudo en la caja, así como la existencia de recursos físicos, materiales y humanos.
         .h4.mt-5 Controles de seguridad ambiental
         .row.mt-4
           .col-4.col-lg-3.align-self-center
             figure
               img(src="@/assets/template/tema-4-2.svg", alt="Texto que describa la imagen").floating.px-4.px-xl-5
           .col-8.col-lg-9.align-self-center
-            p Son aquellos registros procedimentales, administrativos, financieros y/o documentales que instauran las reglas a seguir para la protección del ambiente en el Retail.
+            p Son aquellos registros procedimentales, administrativos, financieros y/o documentales que instauran las reglas a seguir para la protección del ambiente en el <em>Retail</em>.
       .col-3.d-none.d-lg-flex.px-0.align-self-center
         figure
           img(src="@/assets/template/tema-4-1.svg", alt="Texto que describa la imagen").floating
@@ -42,7 +42,7 @@
         p.mt-3 Veamos más sobre la seguridad y salud en el trabajo, a través del proceso mediante el cual se unifica todas las funciones de esta área, en un sistema de gestión:
     figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/5CF3HZdu6Bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row
       .col-10.offset-1
         .tarjeta.color-acento-contenido.p-3.mt-3
@@ -56,7 +56,7 @@
                   h3.mb-1 Cuida tu salud
                   p.text-small.text-amarillo Video ilustrativo: en él mismo podrá profundizar la información. ¡Consúltalo!  
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=nZxAeoxKqus" target="_blank")
                     span Enlace
                     i.fas.fa-link
     separador.mt-3
@@ -76,35 +76,35 @@
           .col-12.col-lg-8
             p Datos personales, toda aquella información asociada a una persona y que permita su identificación, como: 
             .row.mt-4
-              .col-4.bg-blanco.px-5.rounded-20.w-31
-                figure.mt-3.px-xl-4
+              .col-4.bg-blanco.px-5.rounded-20.w-31.align-self-center
+                figure.mt-3.px-xl-4.w-img-card
                   img(src="@/assets/template/tema-4-8.svg", alt="Texto que describa la imagen")
-                .h4.mt-3.text-morado.pb-4.text-center Documento de identidad
-              .col-4.bg-blanco.px-5.rounded-20.ml-3.w-31.mt-3.mt-sm-0          
-                figure.mt-3.px-xl-4
+                .h5.mt-3.text-morado.pb-4.text-center Documento de identidad
+              .col-4.bg-blanco.px-5.rounded-20.ml-3.w-31.mt-3.mt-sm-0        
+                figure.mt-3.px-xl-4.w-img-card
                   img(src="@/assets/template/tema-4-9.svg", alt="Texto que describa la imagen").px-1
-                .h4.mt-3.text-morado.pb-4.text-center Lugar de nacimiento  
+                .h5.mt-3.text-morado.pb-4.text-center Lugar de nacimiento  
               .col-4.bg-blanco.px-5.rounded-20.ml-md-3.w-31.mt-3.mt-md-0         
-                figure.mt-3.px-xl-4
+                figure.mt-3.px-xl-4.w-img-card
                   img(src="@/assets/template/tema-4-10.svg", alt="Texto que describa la imagen").px-1
-                .h4.mt-3.text-morado.pb-4.text-center Estado civil  
+                .h5.mt-3.text-morado.pb-4.text-center Estado civil  
               .col-4.bg-blanco.px-5.rounded-20.w-31.ml-3.ml-md-0.mt-3
-                figure.mt-3.px-xl-4
+                figure.mt-4.px-xl-4.w-img-card
                   img(src="@/assets/template/tema-4-11.svg", alt="Texto que describa la imagen")
-                .h4.mt-3.text-morado.pb-4.text-center Edad
+                .h5.mt-3.text-morado.pb-4.text-center Edad
               .col-4.bg-blanco.px-5.rounded-20.ml-md-3.w-31.mt-3             
-                figure.mt-3.px-xl-4
+                figure.mt-4.px-xl-4.w-img-card
                   img(src="@/assets/template/tema-4-12.svg", alt="Texto que describa la imagen").px-1
-                .h4.mt-3.text-morado.pb-4.text-center Lugar de residencia 
+                .h5.mt-3.text-morado.pb-4.text-center Lugar de residencia 
               .col-4.bg-blanco.px-5.rounded-20.ml-3.w-31.mt-3             
-                figure.mt-3.px-xl-4
+                figure.mt-3.px-xl-4.w-img-card
                   img(src="@/assets/template/tema-4-13.svg", alt="Texto que describa la imagen").px-1
-                .h4.mt-3.text-morado.pb-4.text-center Trayectoria académica, laboral.
+                .h5.mt-3.text-morado.pb-4.text-center Trayectoria académica, laboral.
 
           .col-4.d-none.d-lg-flex
             figure
               img(src="@/assets/template/tema-4-7.svg", alt="Texto que describa la imagen").floating
-        p.mt-4 Existe también información más sensible como su estado de salud, sus características físicas, ideología política, vida sexual, entre otros. Es muy común en los Retail, por estrategia de Mercadeo, solicitar esta información, para el desarrollo de  estrategias de gusto por marcas, productos, olores, empaques, entre otros.
+        p.mt-4 Existe también información más sensible como su estado de salud, sus características físicas, ideología política, vida sexual, entre otros. Es muy común en los <em>Retail</em>, por estrategia de mercadeo, solicitar esta información, para el desarrollo de  estrategias de gusto por marcas, productos, olores, empaques, entre otros.
     .row.mt-4
       .col-10.col-lg-8.offset-1.offset-lg-2
         .cajon.color-primario.p-4.mt-4.bg-azul-claro

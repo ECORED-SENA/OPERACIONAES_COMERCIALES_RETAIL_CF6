@@ -18,6 +18,8 @@
       .col-3.d-none.d-lg-flex.align-self-center
         figure
           img(src="@/assets/template/tema-1-2.png", alt="Texto que describa la imagen").px-3.floating
+    p.mt-5 Se puede señalar que el cajero tiene unas funciones importantes, las cuales se enlistan a continuación: 
+
     .row.mt-5(data-aos="fade-right")
       .col-12.col-xl-10.offset-xl-1.position-relative.d-none.d-lg-flex
         figure.position-absolute
@@ -122,7 +124,7 @@
                   h3.mb-1 Proceso general del cajero
                   p.text-small.text-amarillo Video ilustrativo: en él mismo podrá profundizar la información. ¡Consúltalo!  
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=nYWj9Tru7mc" target="_blank")
                     span Enlace
                     i.fas.fa-link
     .row.mt-5.border-gris.rounded-20(data-aos="zoom-in-left")
@@ -132,7 +134,7 @@
       .col-12.col-lg-8.px-5
         .h4.pt-4 Ética del Cajero
         p.mt-4 La ética empresarial promueve los valores de una sociedad. Muchas empresas crean un código de ética para sus empleados a seguir que asegurarse de que los clientes son tratados con respeto.
-        p.mt-3 Los cajeros en los Retail están obligados a seguir las normas éticas que deben asegurarse de que los empleados no toman ventaja de su posición en la sociedad y el uso de sus conocimientos para beneficio personal; por otra parte, el operario en el puesto de pago debe ser una persona íntegra, honrada y responsable, identificada con los ejes centrales en el buen manejo de equipos y materiales, responsable directo de dinero en efectivo, cheques y otros documentos de valor con un alto nivel de confidencialidad frente a la organización.
+        p.mt-3 Los cajeros en los <em>Retail</em> están obligados a seguir las normas éticas que deben asegurarse de que los empleados no toman ventaja de su posición en la sociedad y el uso de sus conocimientos para beneficio personal; por otra parte, el operario en el puesto de pago debe ser una persona íntegra, honrada y responsable, identificada con los ejes centrales en el buen manejo de equipos y materiales, responsable directo de dinero en efectivo, cheques y otros documentos de valor con un alto nivel de confidencialidad frente a la organización.
     .row.mt-5(data-aos="zoom-in-right")
       .col-10.offset-1.border-gris.rounded-20.px-5.py-4
         .row
@@ -141,7 +143,7 @@
               img(src="@/assets/template/tema-1-27.svg", alt="Texto que describa la imagen").floating
           .col-12.col-lg-9
             .h4 Protocolo institucional
-            p.mt-3 Se entiende en el Retail el protocolo, como aquel conjunto de normas, hábitos y costumbres institucionales que nos permite desenvolvernos adecuadamente en las diferentes áreas de la organización y cada organización maneja uno según sus políticas. 
+            p.mt-3 Se entiende en el <em>Retail</em> el protocolo, como aquel conjunto de normas, hábitos y costumbres institucionales que nos permite desenvolvernos adecuadamente en las diferentes áreas de la organización y cada organización maneja uno según sus políticas. 
 
 
 
@@ -175,7 +177,7 @@ export default {
       {
         titulo: '4.Validar',
         texto:
-          'El buen funcionamiento del software y los botones del tablero de control, ingresar usuario y contraseña, en muchas ocasiones se ingresan el código del supervisor.',
+          'El buen funcionamiento del <em>software</em> y los botones del tablero de control, ingresar usuario y contraseña, en muchas ocasiones se ingresan el código del supervisor.',
         imagen: require('@/assets/template/tema-1-16.png'),
       },
       {
@@ -224,7 +226,7 @@ export default {
         titulo:
           '12. Imprime la información del balance de caja para verificar con lo que tiene físicamente',
         texto:
-          'Efectivo, cupones, Boucher de tarjetas, puntos, etc. Todo debe coincidir para entregar informe al supervisor.',
+          'Efectivo, cupones, <em>Boucher</em> de tarjetas, puntos, etc. Todo debe coincidir para entregar informe al supervisor.',
         imagen: require('@/assets/template/tema-1-24.png'),
       },
     ],
