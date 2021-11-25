@@ -300,48 +300,30 @@ export default {
           'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
       },
       {
-        nombre: 'Zuleidy Maria Ruiz Torres',
+        nombre: 'Arnulfo Beltrán Mojica ',
         cargo: 'Producción audiovisual',
         centro: 'Regional Tolima - Centro de Comercio y Servicios',
       },
       {
-        nombre: '',
+        nombre: 'Camilo Andrés Bolaño Rey',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'Wilson Andrés Arenales Caceres',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
       },
       {
-        nombre: '',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
-      },
-      {
-        nombre: '',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
-      },
-      {
-        nombre: '',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
-      },
-      {
-        nombre: '',
+        nombre: 'Zuleidy Maria Ruiz Torres',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
@@ -349,6 +331,12 @@ export default {
       {
         nombre: 'Lizeth Karina Manchego Suárez',
         cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
+      },
+      {
+        nombre: 'Veimar Celis Melendez',
+        cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
       },
