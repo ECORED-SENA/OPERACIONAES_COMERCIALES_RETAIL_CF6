@@ -175,7 +175,7 @@ export default {
         imagen: require('@/assets/template/tema-1-15.png'),
       },
       {
-        titulo: '4.Validar',
+        titulo: '4. Validar',
         texto:
           'El buen funcionamiento del <em>software</em> y los botones del tablero de control, ingresar usuario y contraseña, en muchas ocasiones se ingresan el código del supervisor.',
         imagen: require('@/assets/template/tema-1-16.png'),
@@ -189,7 +189,7 @@ export default {
       {
         titulo: '6. Registrar los productos',
         texto:
-          'Uno a uno, se deben pasar los códigos de barras por los escáner o lectores ópticos que leen la información del producto. Si no es posible, realizarlo manualmente.',
+          'Uno a uno, se deben pasar los códigos de barras por los escáneres o lectores ópticos que leen la información del producto. Si no es posible, realizarlo manualmente.',
         imagen: require('@/assets/template/tema-1-18.png'),
       },
       {
@@ -201,7 +201,7 @@ export default {
       {
         titulo: '8. Luego de pasar todos los productos',
         texto:
-          'Totalizan y informan la forma de pago del cliente: Efectivo, tarjeta, bonos, puntos, si es en efectivo la caja informa el valor a devolver.',
+          'Totalizan e informan la forma de pago del cliente: Efectivo, tarjeta, bonos, puntos, si es en efectivo la caja informa el valor a devolver.',
         imagen: require('@/assets/template/tema-1-20.png'),
       },
       {

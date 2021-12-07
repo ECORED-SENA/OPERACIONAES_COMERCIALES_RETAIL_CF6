@@ -294,7 +294,7 @@
                 img(src="@/assets/template/tema-2-24.svg", alt="Texto que describa la imagen")
           .col-12.col-lg-8.px-4.bg-blanco.py-5.rounded-15
             .h4.mt-5 No se recomienda
-            p.mt-3 En el punto de pago es recomendable no manejar teléfonos convencionales, ni celulares, tampoco faxes y escaner
+            p.mt-3 En el punto de pago es recomendable no manejar teléfonos convencionales, ni celulares, tampoco faxes y escáner
     separador.mt-3 
 
     .titulo-segundo.mt-5.color-acento-contenido
